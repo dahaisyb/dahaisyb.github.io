@@ -1,15 +1,15 @@
 # _config.alog.yml
-logo: logo 路径
+logo: /img/getBtn1.png
 
 menu:
   - name: 主页
     path: /
-  - name: Projects
+  - name: 项目
     path: /projects
-  - name: Message
-    path: /message
-  - name: Links
-    path: /links
+  # - name: Message
+  #   path: /message
+  # - name: Links
+  #   path: /links
   - name: About
     path: /about
 
